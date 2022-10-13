@@ -12,10 +12,11 @@
 >>>> Ruby => Hashes
 
 Big O:
+Intert - O(1)
+Deletion - O(1)
+Access - O(1)
 
 */
-
-const { Hash } = require("crypto");
 
 // ==== Array Implimentation ==== //
 // I can access character code as below
